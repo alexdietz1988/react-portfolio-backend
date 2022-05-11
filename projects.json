@@ -1,0 +1,14 @@
+[
+    {
+        "name": "2048",
+        "live": "https://alexdietz1988.github.io/2048/",
+        "git": "https://github.com/alexdietz1988/2048",
+        "image": "https://github.com/alexdietz1988/2048/raw/main/screenshot.png"
+    },
+    {
+        "name": "BookDiary",
+        "live": "https://book-diary-321.herokuapp.com/",
+        "git": "https://github.com/alexdietz1988/BookDiary",
+        "image": "https://github.com/alexdietz1988/BookDiary/raw/main/screenshots/user-home.png"
+    }
+]
